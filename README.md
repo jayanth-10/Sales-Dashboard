@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="sales_dashboard_banner.png" alt="Sales Dashboard" width="100%" />
+</p>
+
 # 📊 Sales Dashboard (Power BI)
 
 This interactive **Sales Dashboard** project was created using **Power BI** to analyze and visualize a company's sales data. 
